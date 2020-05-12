@@ -1,0 +1,2 @@
+# Multiphase Synchronous Buck
+This firmware is for my [dual-phase buck converter](http://acordingley.us/dual-phase-buck/). It's based on the STM32F334R8T6 and makes use of the high-resolution timer (HRTIM) built into the part.
